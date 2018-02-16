@@ -25,7 +25,7 @@ SECRET_KEY = 'nxlqh1v8afa*^q2%7as09n!4+0^+mprs!p2lx@zjg+&i$qs!qb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'barsuk.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'barsuk1.pythonanywhere.com']
 
 
 # Application definition
